@@ -3,7 +3,7 @@ These scripts were used in the @i0n1c AppleTV 4 giveaway on 2016/12/25.
 Feel free to use these scripts for whatever you want they are 
 mostly based on the examples from the tweepy documentation.
 That being said you need to have tweepy installed for these scripts
-to work. Furtherwore you need to fill in keys.py with API keys that
+to work. Furthermore you need to fill in keys.py with API keys that
 you get at https://apps.twitter.com/
 
 1. the more followers you have the longer the list generation takes due to twitter rate limits
